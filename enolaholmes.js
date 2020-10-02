@@ -1,0 +1,1 @@
+Enola Holmes is a 2020 American mystery film based on the first book in the series of the same name by Nancy Springer. The story is about the teenage sister of the already-famous Sherlock Holmes, who goes to London in search of her mother who has disappeared
