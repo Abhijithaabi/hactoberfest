@@ -1,15 +1,15 @@
 body{
-    background-color: rgb(19, 19, 19);
-    margin: 0;
+    background-color: rgb(50, 50, 50);
+    margin: 5;
     font-family: "Avenir","Montserrat";
 }
 .square{
     width: 30%;
     padding-bottom: 30%;
     float: left;
-    border-radius: 20%;
-    margin: 1.66%;
-    background-color: purple;
+    border-radius: 30%;
+    margin: 30%;
+    background-color: black;
     transition: background 0.5s;
     -webkit-transition: background 0.5s;
     -moz-transition: background 0.5s;
